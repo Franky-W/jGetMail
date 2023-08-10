@@ -1,0 +1,8 @@
+{
+  "destination": "./files/",
+  "host": "mail.your-server.de",
+  "port": "995",
+  "username": "",
+  "password": ""
+
+}
